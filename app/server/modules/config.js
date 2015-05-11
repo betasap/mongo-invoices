@@ -1,17 +1,17 @@
 var _config = {
-    "locales":			["it","en"],
+    "locales":			["it","en","pl"],
 
-	"defaultLocale": 	"it",
+	"defaultLocale": 	"pl",
 	"company": {
 		"logo":	"/logo.png",
-		"name":	"Associazione Culturale Linux Club Italia",
-		"row1":	"Associazione Culturale Linux Club Italia<br />Via del Verano 39, 00185 Roma, Italia - t +39.06.78147301 - f +39.06.78390805",
-		"row2":	"CF 97318630585 P.IVA 08459281005 - linux-club.org - info@linux-club.org"
+		"name":	"Nazwa",
+		"row1":	"Nazwa 2",
+		"row2":	"Nazwa 3"
 	},
 	"banks":[
-		["POSTE ITALIANE SPA - Ufficio radicamento: 55937 CC intestato a: Associazione Culturale Linux Club Italia - IBAN: IT-37-M-07601-03200-000063473623"]
+		["BANK informacje"]
 	],
-	"currency":			["€"],
+	"currency":			["zł"],
 	"vat_perc":	22,
 	"accountingSettings":{
 		"currency": {
